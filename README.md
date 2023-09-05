@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @SiMamank115<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning ES.6 scripting<br>💞️ I’m looking to collaborate on Nothing<br>📫 How to reach me. No
+👋 Hi, I’m @SiMamank115<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning Operating kali linux<br>💞️ I’m looking to collaborate on Website or game development<br>📫 How to reach me. faeest.115@gmail.com
 
 
 ## 🌐 Socials:
