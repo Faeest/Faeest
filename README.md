@@ -1,5 +1,8 @@
 # 🙂 About Me:
-🌱 I’m currently learning Tailwind and Godot<br>💬 Ask me about any FE related Topics
+🌱 I’m currently learning Godot
+🧛‍♀️ Javascript supremacy cult member
+🤵 Fullstack web dev, game dev, cyber security
+🤩 Open source enthusiast
 
 
 ## 🌐 Socials:
