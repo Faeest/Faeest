@@ -1,8 +1,8 @@
-# 🙂 About Me:
-🌱 I’m currently learning Godot <br>
-🧛‍♀️ Javascript supremacy cult member <br>
+# 😋 My shi:
+🌱 currently on realtime websocket <br>
+🧛‍♀️ Javascript supremacy cult higher ups <br>
 🤵 Fullstack web dev, game dev, cyber security <br>
-🤩 Open source enthusiast <br>
+🤤 Open source enthusiast <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Faeest) 
 <img src="https://komarev.com/ghpvc/?username=faeest&label=Profile%20views&color=0e75b6&style=flat" alt="faeest" />
