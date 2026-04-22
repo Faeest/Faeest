@@ -1,8 +1,7 @@
 # 😋 My shi:
-🌱 currently on realtime websocket <br>
+🌱 Currently on **hell** <br>
 🧛‍♀️ Javascript supremacy cult higher ups <br>
-🤵 Fullstack web dev, game dev, cyber security <br>
-🤤 Open source enthusiast <br>
+🤵 I take 2 multi-company projects, teach IT to kids, 9 classes, personal game project, and 3D printing as hobby because apparently sleeping is overrated. Start thinking about the CS rabbit hole ✌️ <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Faeest) 
 <img src="https://komarev.com/ghpvc/?username=faeest&label=Profile%20views&color=0e75b6&style=flat" alt="faeest" />
